@@ -1,0 +1,24 @@
+body {
+    background-color: #16ddcb;
+}
+h1{
+    font-family: "Comic Sans MS";
+}
+p{
+    text-align: center;
+    font: helvetica;
+    font-size: 18px;
+}
+p.copyright{
+    text-align: left;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    font-size: 18px;
+}
+li::first-letter{
+    font-size: larger;
+    font-weight: bold;
+    font-family: sans-serif;
+}
