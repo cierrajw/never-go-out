@@ -1,0 +1,21 @@
+body {
+    background-color: #295ebd;
+}
+h1{
+    font-family: "Comic Sans MS";
+}
+p{
+    text-align: center;
+    font: helvetica;
+    font-size: 18px;
+}
+p.copyright{
+    text-align: left;
+    font-style: italic;
+}
+ul{
+    list-style-type: disc;
+    list-style-position: inside;
+    text-align: center;
+    font-size: 18px;
+}
