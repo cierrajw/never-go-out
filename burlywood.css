@@ -11,13 +11,13 @@ h1{
 #wrap{
     border-style: dotted;
     background-color: #fbeeee;
-    padding: 0;
     margin: 0;
 }
 p{
     text-align: center;
     font: helvetica;
     font-size: 18px;
+    padding: 10px;
 }
 .firstletter{
     font-size: larger;
